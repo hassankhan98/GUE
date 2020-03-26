@@ -4,4 +4,14 @@ Google URL Extractor:
 
 <img src="https://snipboard.io/beMQk3.jpg">
 
+
+
 git clone https://github.com/hassankhan98/GUE.git
+
+cd GUE
+
+pip3 install google
+
+python3 search.py
+
+
